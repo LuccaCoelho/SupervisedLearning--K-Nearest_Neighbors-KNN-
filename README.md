@@ -1,1 +1,1 @@
-# SupervisedLearning--K-Nearest_Neighbors-KNN-
+# SupervisedLearning (K-Nearest Neighbors)
