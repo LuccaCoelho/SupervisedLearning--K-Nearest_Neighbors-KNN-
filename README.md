@@ -14,4 +14,4 @@ This project is a simple K-Nearest Neighbors algorithm that will take a categori
 
 ## Visualization
 
--[Accuracy x K](https://github.com/LuccaCoelho/SupervisedLearning--K-Nearest_Neighbors-KNN-/blob/main/KNN_Graph.png)
+![Accuracy x K](https://github.com/LuccaCoelho/SupervisedLearning--K-Nearest_Neighbors-KNN-/blob/main/KNN_Graph.png)
